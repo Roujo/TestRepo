@@ -1,5 +1,5 @@
 package roujo.test.feature;
 
-public class VisioKiller {
+public class VisioKiller extends OfficeKiller {
 
 }
